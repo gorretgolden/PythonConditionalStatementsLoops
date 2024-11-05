@@ -1,4 +1,9 @@
 #CONDITIONAL STATEMENTS
+
+# Conditional statements are used to execute code only if certain conditions are met. 
+# They allow programs to make decisions and respond differently based on different inputs or states.
+# The primary conditional statements in Python are if, elif, and else
+
 # Keywords in python, (reversed words )  # Operators (logical,comparison etc)
 
 # if statement (run a block of code only if a condition is true)
